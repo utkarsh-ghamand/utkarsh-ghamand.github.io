@@ -1,0 +1,178 @@
+details{
+	display:inline;
+	font-size: 100%;
+	color: #0e8a6df7;
+	
+ margin-right: 5%;
+
+
+}
+
+summary{
+          margin-right:190px;
+          display: block;
+
+
+}
+
+h5{
+	display:inline-block;
+	font-family:  algerian;
+	color:#104e14;
+	font-size: 140%;
+	margin:0 auto;
+	border-style: groove;
+	background-image: url("C:/Users/Hp/Desktop/gallery/as.png");
+	margin-top: 30px;
+
+}
+p{
+	display: inline-block;
+	color:#562706;
+  font-size: 130%;
+ margin:0 auto;
+
+  border-style: ridge;
+
+    
+	background-image: url(C:/Users/Hp/Desktop/gallery/d.jpg); 	
+	/*margin-right : 70%;*/
+	width: 40%;
+	margin-right: 10%;
+		height:450px;
+	
+	background-size: 100%;
+}
+
+h4{
+	display: inline-block;
+	color:#22c598;
+	
+	
+	
+	
+}
+
+h2{background-color: #39dc425c;
+	 margin-top:1%;
+	 margin-bottom: 1px; 
+	font-size: 400%;
+	clear: both;
+
+}
+
+
+
+span{
+	
+	
+	width: 30%;
+display: inline-block;
+margin-right: ;
+word-spacing: 5px;
+font-family: 'High Tower Text';
+color:#0bc791;
+border-style: hidden;
+border-left-style:  groove;
+border-left-color: #187f7cfc;
+padding-left: 13%;
+border-width: 2px;
+
+}
+#red{
+	width:90%;
+	height: 230px;
+	border-style: outset;
+
+}
+
+div{
+	display: block;
+	clear: both;
+	margin-top: 30px;
+}
+img{
+
+	
+    
+    width: 40%;
+    height: 50%;
+    display: inline;
+    
+
+}
+
+#ek{
+	
+	border-style: groove;
+	width: 40%;
+	
+	padding-top: 30%;
+	background-image: url("file:///C:/Users/Hp/Desktop/gallery/as.png");
+	background-size: 100%;
+}
+
+#we{
+
+border-style: solid;
+padding: 13%;
+
+border-bottom-right-radius: 100%;
+border-top-left-radius: 100%;
+border-bottom-left-radius: 100%;
+border-top-right-radius: 100%;
+
+
+background-color: #39dcd178; 
+
+}
+
+
+
+#q{
+	background: #39dc4266;
+}
+
+#de{
+
+padding: 2%;
+margin-top: 2px; 
+}
+ul{
+
+font-family: Gabriola;
+letter-spacing: 2px;
+word-spacing: 2px;
+font-size: 140%;
+list-style: ;
+list-style-image: url("C:/Users/Hp/Desktop/daia.png");
+border-style: hidden;
+width: 40%;
+display: inline-block;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
